@@ -1,2 +1,3 @@
-alterações
-modificando
+mudanças
+alterar
+diferenças
